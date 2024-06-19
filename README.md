@@ -1,7 +1,7 @@
 # Slitherlink_runner_triangle（スリザーリンク・ランナー（三角形バージョン））
 
 [Slitherlink_runner（スリザーリンク・ランナー）](https://github.com/titiatil/Slitherlink_runner)の派生ゲームです。そちらを遊んだことない方はそちらを先にどうぞ。  
-[パズル通信ニコリ](https://www.nikoli.co.jp/)の[スリザーリンク](https://www.nikoli.co.jp/ja/puzzles/slitherlink/)を題材にした横スクロールの（アクション？）パズルゲーム、Slitherlink_runner（スリザーリンク・ランナー）の三角座標のバージョンです。難易度・ステージ構成も大体同じくらいにしています。javascriptのみを使っています。
+[パズル通信ニコリ](https://www.nikoli.co.jp/)の[スリザーリンク](https://www.nikoli.co.jp/ja/puzzles/slitherlink/)を題材にした横スクロールの（アクション？）パズルゲーム、Slitherlink_runner（スリザーリンク・ランナー）の三角座標のバージョンです。ステージ構成も大体同じです。javascriptのみを使っています。
 
 ## ルール
 
