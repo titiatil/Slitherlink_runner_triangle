@@ -1840,7 +1840,7 @@ function keydownfunc(event) {
     }
 
     // Game over 画面からタイトルへ遷移。
-    if (game.status === 2 && ((key_code === 39) || (key_code === 37) || (key_code === 40) || (key_code === 38))) {
+    if (game.status === 2 && ((key_code === 39) || (key_code === 37) || (key_code === 40) || (key_code === 38) || (97 <= key_code && key_code <= 105))) {
         game_to_title()
     }
 }
