@@ -146,7 +146,7 @@ function naname_board(Board, B, rand, l, r) {
 function naname_board2(Board, B, l, r) {
     for (let x = l; x < r; x++) {
         for (let y = 0; y < one_game.masume_tate - 1; y++) {
-            if ((x % 7 === y) || (x % 7 === (y + 1) % 7)) {
+            if ((x % 7 === y % 7) || (x % 7 === (y + 1) % 7)) {
                 Board[y][x] = B[y][x];
             }
         }
